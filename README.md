@@ -1,6 +1,6 @@
 # World Metro Power_BI
 
-<a href="https://www.kaggle.com/datasets/timmofeyy/-world-metro" target="blank">Dataset</a>
+<a href="https://www.kaggle.com/datasets/timmofeyy/-world-metro">Dataset</a>
 
 ✨ **Overview**
 
